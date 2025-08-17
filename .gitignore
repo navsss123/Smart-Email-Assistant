@@ -1,0 +1,7 @@
+credentials.json 
+token.json 
+token.pkl 
+__pycache__/ 
+*.pyc 
+.env 
+.venv/ 
